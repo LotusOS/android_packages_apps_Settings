@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- opyright (C) 2020-2021 The CherishOS Project
+<!-- opyright (C) 2020-2021 The LotusOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -18,12 +18,12 @@
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Tap to show info</string>
 
-    <!-- CherishOS Build Date -->
+    <!-- LotusOS Build Date -->
     <string name="build_date">Build date</string>
 
-    <!-- CherishOS version -->
-    <string name="cherish_version">Cherish version</string>
-    <string name="cherish_version_default">Unknown</string>
+    <!-- LotusOS version -->
+    <string name="lotus_version">LotusOS version</string>
+    <string name="lotus_version_default">N/A</string>
 
     <!-- Three-fingers-swipe to screenshot -->
     <string name="three_finger_gesture">Swipe to screenshot</string>

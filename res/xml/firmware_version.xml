@@ -31,13 +31,13 @@
         settings:controller="com.android.settings.deviceinfo.firmwareversion.FirmwareVersionDetailPreferenceController"/>
 
 
-    <!-- Cherish version -->
+    <!-- lotus version -->
     <Preference
-        android:key="cherish_version"
-        android:title="@string/cherish_version"
+        android:key="lotus_version"
+        android:title="@string/lotus_version"
         android:summary="@string/summary_placeholder"
         settings:enableCopying="true"
-        settings:controller="com.android.settings.deviceinfo.firmwareversion.CherishVersionPreferenceController"/>
+        settings:controller="com.android.settings.deviceinfo.firmwareversion.LotusVersionPreferenceController"/>
 
     <!-- Security patch -->
     <Preference
